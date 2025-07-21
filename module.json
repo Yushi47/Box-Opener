@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "box-opener",
+    "author": "Owyn, Yushi",
+    "description": "Mass-Opens boxes",
+    "options": {
+        "cliName": "Box",
+        "guiName": "Box Opener"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yushi47/Box-Opener/master/"]
+}
